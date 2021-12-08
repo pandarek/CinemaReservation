@@ -71,7 +71,7 @@ body {
 }
 
 .seat {
-    display: none;
+/*    display: none;*/
 }
 
     .seat + label:before {
